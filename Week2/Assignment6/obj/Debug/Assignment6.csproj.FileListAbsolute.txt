@@ -1,0 +1,9 @@
+D:\school\Programmeren 1\Week2\Assignment6\bin\Debug\Assignment6.exe.config
+D:\school\Programmeren 1\Week2\Assignment6\bin\Debug\Assignment6.exe
+D:\school\Programmeren 1\Week2\Assignment6\bin\Debug\Assignment6.pdb
+D:\school\Programmeren 1\Week2\Assignment6\obj\Debug\Assignment6.Form1.resources
+D:\school\Programmeren 1\Week2\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+D:\school\Programmeren 1\Week2\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+D:\school\Programmeren 1\Week2\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+D:\school\Programmeren 1\Week2\Assignment6\obj\Debug\Assignment6.exe
+D:\school\Programmeren 1\Week2\Assignment6\obj\Debug\Assignment6.pdb
