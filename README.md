@@ -2,10 +2,10 @@
 ### Assignments From The lesson Programmeren 1
 
 
-1. Year 1 :
+Year 1 :
 
-    1. Week 1 :
+> Week 1 Assignment 1 -> 5
 
-    >***Assignment 32*** 
+> Week 2 Assignment 1 -> 8
 
-    >***Assignment 33***
+> Week 3 Assignment 1 -> 10
