@@ -1,0 +1,7 @@
+D:\School\Programmeren-1\Week3\assignment7\bin\Debug\assignment7.exe.config
+D:\School\Programmeren-1\Week3\assignment7\bin\Debug\assignment7.exe
+D:\School\Programmeren-1\Week3\assignment7\bin\Debug\assignment7.pdb
+D:\School\Programmeren-1\Week3\assignment7\obj\Debug\assignment7.csproj.AssemblyReference.cache
+D:\School\Programmeren-1\Week3\assignment7\obj\Debug\assignment7.csproj.CoreCompileInputs.cache
+D:\School\Programmeren-1\Week3\assignment7\obj\Debug\assignment7.exe
+D:\School\Programmeren-1\Week3\assignment7\obj\Debug\assignment7.pdb
