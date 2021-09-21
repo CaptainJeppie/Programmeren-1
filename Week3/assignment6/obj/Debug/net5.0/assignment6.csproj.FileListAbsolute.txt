@@ -1,0 +1,16 @@
+D:\School\Programmeren-1\Week3\assignment6\bin\Debug\net5.0\assignment6.exe
+D:\School\Programmeren-1\Week3\assignment6\bin\Debug\net5.0\assignment6.deps.json
+D:\School\Programmeren-1\Week3\assignment6\bin\Debug\net5.0\assignment6.runtimeconfig.json
+D:\School\Programmeren-1\Week3\assignment6\bin\Debug\net5.0\assignment6.runtimeconfig.dev.json
+D:\School\Programmeren-1\Week3\assignment6\bin\Debug\net5.0\assignment6.dll
+D:\School\Programmeren-1\Week3\assignment6\bin\Debug\net5.0\ref\assignment6.dll
+D:\School\Programmeren-1\Week3\assignment6\bin\Debug\net5.0\assignment6.pdb
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\assignment6.csproj.AssemblyReference.cache
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\assignment6.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\assignment6.AssemblyInfoInputs.cache
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\assignment6.AssemblyInfo.cs
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\assignment6.csproj.CoreCompileInputs.cache
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\assignment6.dll
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\ref\assignment6.dll
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\assignment6.pdb
+D:\School\Programmeren-1\Week3\assignment6\obj\Debug\net5.0\assignment6.genruntimeconfig.cache
