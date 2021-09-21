@@ -21,7 +21,7 @@ namespace assignment4
 
             //calculate all
             int sum = number1 + number2 + number3;
-            double average = sum / 3;
+            double average = (double)sum / 3;
             int product = number1 * number2 * number3;
             int[] numbers = new[] {number1, number2, number3};
             int min = numbers.Min();
