@@ -7,3 +7,4 @@ D:\School\Programmeren-1\Week3\assignment10\obj\Debug\assignment10.csproj.CoreCo
 D:\School\Programmeren-1\Week3\assignment10\obj\Debug\assignment10.exe
 D:\School\Programmeren-1\Week3\assignment10\obj\Debug\assignment10.pdb
 D:\School\Programmeren-1\Week3\assignment10\obj\Debug\assignment10.Form1.resources
+D:\School\Programmeren-1\Week3\assignment10\obj\Debug\assignment10.csproj.AssemblyReference.cache

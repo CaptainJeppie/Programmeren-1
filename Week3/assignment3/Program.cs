@@ -21,7 +21,7 @@ namespace assignment3
 
             if (number1 > number3 && number2 > number3)
             {
-                Console.WriteLine("The third number is the smallest of the threef");
+                Console.WriteLine("The third number is the smallest of the three");
             } else
             {
                 Console.WriteLine("The third number is not the smallest of the three");

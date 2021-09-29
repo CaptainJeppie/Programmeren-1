@@ -1,0 +1,6 @@
+D:\school\Programmeren 1\Week4\assignment1\bin\Debug\assignment1.exe.config
+D:\school\Programmeren 1\Week4\assignment1\bin\Debug\assignment1.exe
+D:\school\Programmeren 1\Week4\assignment1\bin\Debug\assignment1.pdb
+D:\school\Programmeren 1\Week4\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+D:\school\Programmeren 1\Week4\assignment1\obj\Debug\assignment1.exe
+D:\school\Programmeren 1\Week4\assignment1\obj\Debug\assignment1.pdb
