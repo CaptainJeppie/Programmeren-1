@@ -30,7 +30,7 @@ namespace assignment7
                 ismale = false;
             } else
             {
-                Console.Write("Invalid gender try again: ");
+                Console.Write("Try again: ");
                 goto Gender;
             }
 

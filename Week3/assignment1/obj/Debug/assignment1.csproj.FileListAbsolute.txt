@@ -5,3 +5,10 @@ D:\school\Programmeren 1\Week3\assignment1\bin\Debug\assignment1.exe
 D:\school\Programmeren 1\Week3\assignment1\bin\Debug\assignment1.pdb
 D:\school\Programmeren 1\Week3\assignment1\obj\Debug\assignment1.exe
 D:\school\Programmeren 1\Week3\assignment1\obj\Debug\assignment1.pdb
+D:\School\Programmeren-1\Week3\assignment1\bin\Debug\assignment1.exe.config
+D:\School\Programmeren-1\Week3\assignment1\bin\Debug\assignment1.exe
+D:\School\Programmeren-1\Week3\assignment1\bin\Debug\assignment1.pdb
+D:\School\Programmeren-1\Week3\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+D:\School\Programmeren-1\Week3\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+D:\School\Programmeren-1\Week3\assignment1\obj\Debug\assignment1.exe
+D:\School\Programmeren-1\Week3\assignment1\obj\Debug\assignment1.pdb

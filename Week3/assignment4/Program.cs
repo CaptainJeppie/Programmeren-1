@@ -23,7 +23,7 @@ namespace assignment4
             int sum = number1 + number2 + number3;
             double average = (double)sum / 3;
             int product = number1 * number2 * number3;
-            int[] numbers = new[] {number1, number2, number3};
+            int[] numbers = new int[3] {number1, number2, number3};
             int min = numbers.Min();
             int max = numbers.Max();
 
