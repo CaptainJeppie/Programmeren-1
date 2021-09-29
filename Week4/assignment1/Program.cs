@@ -10,7 +10,7 @@ namespace Week4
     {
         static void Main(string[] args)
         {
-            int numbor = 0;
+            int number = 0;
             int sumpositivenumbers = 0;
             int countpositivenumbers = 0;
 
@@ -18,13 +18,13 @@ namespace Week4
             do
             {
                 Console.Write("Enter a number: ");
-                numbor = int.Parse(Console.ReadLine());
+                number = int.Parse(Console.ReadLine());
                 if (number > 0)
                 {
-                    sumpositivenumbers = sumpositivenumbers + numbor;
+                    sumpositivenumbers = sumpositivenumbers + number;
                     countpositivenumbers++;
                 }
-            } while (nomber != 0);
+            } while (number != 0);
 
             // calculate avarage
             double avaragenumber = 0;
